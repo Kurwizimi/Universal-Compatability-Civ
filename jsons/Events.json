@@ -1,0 +1,16 @@
+[
+  {
+		"name": "",
+		"text": "waow",
+		"choices": [
+			{ "text": "mario 7",
+			  "uniques": [	"Cannot build [All] units <for [10] turns>", "[+1 Food] [in all cities] <for every [[Units]/[2]]> <for [10] turns>"]}
+      
+      			{ "text": "oj oj oj",
+			  "uniques": [	"May not annex cities <for [20] turns>" , "[+50% Production towards any buildings that already exist in the Capital <for [10] turns>"] }
+      
+     			{ "text": "spamton",
+			  "uniques": [ 	"Nullifies Growth [in capital] <for [10] turns>",
+                            "[-75]% construction time for [All] improvements <for [10] turns>"] } ]
+  },
+]
