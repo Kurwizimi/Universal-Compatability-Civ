@@ -1,0 +1,11 @@
+[
+  {
+        "name": "",
+       "uniques": ["[+1] Sight", "[This Unit] gains [2] movement <upon damaging a [All] unit>"]
+    },
+  {
+        "name": "ehwe",
+       "uniques": ["Invisible to non-adjacent units <when below [35] HP>", "[+5] Strength <when stacked with a [All] unit>"]
+    },
+
+]
