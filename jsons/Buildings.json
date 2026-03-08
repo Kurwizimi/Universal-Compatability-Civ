@@ -1,25 +1,11 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "The Super Real No Fake Really Epic Piece Of Infrastructure That is Super Cool",
+		"uniqueTo": "",
+		"cost": 100,
+		"hurryCostModifier": 2,
+		"uniques": ["[30]% Food is carried over after population increases [in this city]",
+			"All newly-trained [All] units [inthiscity] receive the [ehwe] promotion",
+			"Only available <while the empire is happy>"],
 	}
 ]
