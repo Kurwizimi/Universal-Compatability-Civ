@@ -1,10 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Most Compatabile Civ That Has Ever Been MAde",
+		"leaderName": "The Most Unique Leader Made For This Game",
+		"adjective": ["superhyperomegauniquenofake"],
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -29,10 +27,11 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"uniqueName": "The Best Unique Ability That Will Absolutely Work With No Possible FLaws",
+		"uniques": ["'Borrows' city names from other civilizations in the game",
+			"Get the leader title of [The Most Uniqueest-est Leader Title That Can Possible Be Made And Owned] <upon founding a city>",
+			"Triggers a [iCantBeBotheredToNameThisEvent] event <upon declaring friendship>",
+			"[+2 Food] [in all cities]"],
+		"cities": ["The Omega Unique CIty That Will Function As Normal No Matter What Will Happen"]
 	}
 ]
